@@ -1,7 +1,7 @@
 # What is the 10001st prime number?
 from datetime import datetime
 
-prime_index = 100000
+prime_index = 10000
 print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 primes = [2]
 
